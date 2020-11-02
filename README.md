@@ -1,2 +1,2 @@
-# 91algorithm_2rd
+# 91alg-2
 91算法第二期
